@@ -32,7 +32,7 @@
       width="40" />
   </a>
 </p>
-
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 <h3 align="center">Languages and Tools:</h3>
 <!-- Programming Languages -->
 <h3 align="center">Programming Languages</h3>
