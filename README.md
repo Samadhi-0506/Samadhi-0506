@@ -1,31 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samadhi Dissanayake</h1>
 <h3 align="center">Aspiring DevOps Engineer 🚀 | Mobile application Developer 📱 | Computer Science Undergraduate 🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhi-0506" alt="samadhi-0506" /></a> </p>
-
-- 🧑‍🎓 I’m a Computer Science Undergraduate at **Saegis Campus**
-
-- 📱 I’m learning to **develop mobile applications using Flutter & Dart**
-
-- 🚀 My Main Focus: **DevOps Engineering**
-
-- ⚙️ I’m currently practicing **DevOps tools and building projects using Docker, Kubernetes, Terraform & CI/CD pipelines**
-
-- ☁️ Interested in building [secure, scalable & production-ready systems](secure, scalable & production-ready systems)
-
-- 💬 Ask me about [DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus](DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus)
-
-- 📊 I’m also exploring **monitoring and observability tools like Grafana & Prometheus**
-
-- 🌱 Currently learning **CI/CD workflows, GitOps (Argo CD) & cloud technologies**
+<p align="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
 
 - 📫 Reach me at : [vinodya.samadhi06@gmail.com](vinodya.samadhi06@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samadhi dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadhi dissanayake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
