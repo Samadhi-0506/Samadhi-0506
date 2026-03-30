@@ -7,16 +7,23 @@
 - 📱 I’m learning to develop **mobile applications using Flutter & Dart**
 - 🚀 My Main Focus: **DevOps Engineering**
 - ⚙️ I’m currently practicing **DevOps tools and building projects using Docker, Kubernetes, Terraform & CI/CD pipelines**
-- ☁️ Interested in building [secure, scalable & production-ready systems]
-- 💬 Ask me about [DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus](DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus)
+- ☁️ Interested in building secure, scalable & production-ready systems
+- 💬 Ask me about DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus
 - 📊 I’m also exploring monitoring and observability tools like **Grafana & Prometheus**
 - 🌱 Currently learning **CI/CD workflows, GitOps (Argo CD) & cloud technologies**
 
-- 📫 Reach me at : [vinodya.samadhi06@gmail.com](vinodya.samadhi06@gmail.com)
+- 📫 Reach me at : vinodya.samadhi06@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
