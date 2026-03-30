@@ -4,19 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
 
 - 🧑‍🎓 I’m a Computer Science Undergraduate at **Saegis Campus**
-
 - 📱 I’m learning to develop **mobile applications using Flutter & Dart**
-
 - 🚀 My Main Focus: **DevOps Engineering**
-
 - ⚙️ I’m currently practicing **DevOps tools and building projects using Docker, Kubernetes, Terraform & CI/CD pipelines**
-
-- ☁️ Interested in building [secure, scalable & production-ready systems](secure, scalable & production-ready systems)
-
+- ☁️ Interested in building [secure, scalable & production-ready systems]
 - 💬 Ask me about [DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus](DevOps basics, Docker, Kubernetes, Flutter, CI/CD, Grafana & Prometheus)
-
 - 📊 I’m also exploring monitoring and observability tools like **Grafana & Prometheus**
-
 - 🌱 Currently learning **CI/CD workflows, GitOps (Argo CD) & cloud technologies**
 
 - 📫 Reach me at : [vinodya.samadhi06@gmail.com](vinodya.samadhi06@gmail.com)
