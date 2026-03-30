@@ -35,8 +35,8 @@
     <img align="center"
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
       alt="Email"
-      height="40"
-      width="40" />
+      height="30"
+      width="30" />
   </a>
 </p>
 
