@@ -33,10 +33,9 @@
   </a>
   <a href="vinodya.samadhi06@gmail.com">
     <img align="center"
-      <img align="center"
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
       alt="Email"
-      height="30"
+      height="40"
       width="40" />
   </a>
 </p>
