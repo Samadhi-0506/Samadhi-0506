@@ -1,4 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Samadhi Dissanayake</h1>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="40px"><b>
+  I'm Samadhi Dissanayake</b>
+</h1>
 <h3 align="center">Aspiring DevOps Engineer 🚀 | Mobile application Developer 📱 | Computer Science Undergraduate 🎓</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
@@ -57,7 +60,7 @@
       <tr>
         <td align="center"><b>DevOps & Cloud</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform,git,linux" />
+          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform,ansible,git,linux" />
         </td>
       </tr>
       <tr>
