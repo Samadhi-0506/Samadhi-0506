@@ -11,7 +11,7 @@
 - 🔍 Constantly learning and eager to grow in the field of DevOps engineering.<br>
 - 🚀 Ready to collaborate and contribute within the GitHub community.
 
-- 📫 Reach me at : vinodya.samadhi06@gmail.com
+
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
