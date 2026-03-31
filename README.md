@@ -60,13 +60,13 @@
       <tr>
         <td align="center"><b>DevOps & Cloud</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform,ansible,git,linux" />
+          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,terraform,ansible,linux" />
         </td>
       </tr>
       <tr>
         <td align="center"><b>Other Tools</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=vscode,figma" />
+          <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
         </td>
       </tr>
     </tbody>
