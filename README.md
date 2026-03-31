@@ -1,22 +1,31 @@
-<p align="center" style="margin:0;padding:0;line-height:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hey!%20%F0%9F%91%8B%20I'm%20Samadhi%20Dissanayake&fontSize=45&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%"/>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hi%20👋,%20I'm%20Samadhi%20Dissanayake&fontSize=40&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" />
 </p>
 
-<p align="center" style="margin:-20px 0 0 0;padding:0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5F5DC&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;Mobile+Application+Developer+%F0%9F%93%B1;Computer+Science+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
+<h3 align="center">
+  🚀 Aspiring DevOps Engineer | 📱 Mobile Developer | 🎓 Computer Science Undergraduate
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
-<p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-- 🧑‍🎓 I’m a Computer Science Undergraduate at Saegis Campus <br>
-- 📱 I’m learning to develop mobile applications using Flutter & Dart<br>
-- 🚀 My Main Focus: DevOps Engineering<br>
-- ⚙️ I’m currently practicing DevOps tools and building projects using Docker, Kubernetes, Terraform & CI/CD pipelines<br>
-- ☁️ Interested in building secure, scalable & production-ready systems<br>
-- 🔍 Constantly learning and eager to grow in the field of DevOps engineering.<br>
-- 🚀 Ready to collaborate and contribute within the GitHub community.
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<hr>
+
+<!-- About Me -->
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🎓 Computer Science Undergraduate at Saegis Campus</li>
+  <li>🚀 Passionate about DevOps Engineering & Cloud Technologies</li>
+  <li>📱 Learning Mobile App Development using Flutter & Dart</li>
+  <li>⚙️ Hands-on with CI/CD pipelines and containerization</li>
+  <li>☁️ Interested in scalable, secure, production-grade systems</li>
+  <li>📚 Continuously improving DevOps and cloud skills</li>
+  <li>🤝 Open to collaboration and open-source contributions</li>
+</ul>
+
+<hr>
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
 <div align="center">
   <table width="100%">
