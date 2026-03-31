@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samadhi Dissanayake</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Samadhi Dissanayake</h1>
 <h3 align="center">Aspiring DevOps Engineer 🚀 | Mobile application Developer 📱 | Computer Science Undergraduate 🎓</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
@@ -71,23 +70,36 @@
   </table>
 </div>
 <br>
-<h2 align="center">Connect with me:</h2>
-<div align="center">
+<h2 align="center">🔗 Connect with me:</h2><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samadhi-dissanayake-9243812bb/" target="_blank">
-    <img align="center"
+    <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       height="30"
       width="40" />
   </a>
+
   <a href="https://github.com/Samadhi-0506" target="_blank">
-    <img align="center"
+    <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="GitHub"
       height="30"
       width="40" />
   </a>
-</p>
+
+  <a href="mailto:vinodya.samadhi06@gmail.com">
+    <img 
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
+      alt="Gmail"
+      height="30"
+      width="40" />
+  </a>
+</p><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
