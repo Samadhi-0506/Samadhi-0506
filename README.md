@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hi%20👋,%20I'm%20Samadhi%20Dissanayake&fontSize=40&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" />
@@ -82,6 +83,7 @@
   </table>
 </div>
 <br>
+<hr>
 <h2 align="center">🔗 Connect with me:</h2><br>
 
 <p align="center">
