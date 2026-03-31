@@ -1,11 +1,13 @@
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="40px"><b>
-  I'm Samadhi Dissanayake</b>
-</h1>
-<h3 align="center">Aspiring DevOps Engineer 🚀 | Mobile application Developer 📱 | Computer Science Undergraduate 🎓</h3>
+<p align="center" style="margin:0;padding:0;line-height:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080c14,40:0f1b35,100:1e3a6e&text=Hey!%20%F0%9F%91%8B%20I'm%20Samadhi%20Dissanayake&fontSize=45&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%"/>
+</p>
 
+<p align="center" style="margin:-20px 0 0 0;padding:0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5F5DC&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;Mobile+Application+Developer+%F0%9F%93%B1;Computer+Science+Undergraduate+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
 <p>
+<h2>About Me</h2>
 - 🧑‍🎓 I’m a Computer Science Undergraduate at Saegis Campus <br>
 - 📱 I’m learning to develop mobile applications using Flutter & Dart<br>
 - 🚀 My Main Focus: DevOps Engineering<br>
