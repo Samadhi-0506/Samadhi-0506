@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadhi-0506&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-0506" /> </p>
 <p>
-<h2>About Me</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🧑‍🎓 I’m a Computer Science Undergraduate at Saegis Campus <br>
 - 📱 I’m learning to develop mobile applications using Flutter & Dart<br>
 - 🚀 My Main Focus: DevOps Engineering<br>
@@ -15,8 +15,6 @@
 - ☁️ Interested in building secure, scalable & production-ready systems<br>
 - 🔍 Constantly learning and eager to grow in the field of DevOps engineering.<br>
 - 🚀 Ready to collaborate and contribute within the GitHub community.
-
-
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">🛠️ Tech Stack & Toolbox</h2>
